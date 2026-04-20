@@ -1,0 +1,22 @@
+{
+    "project": "Olist E-Commerce Analysis",
+    "analyst": "Gemini Collaborator",
+    "execution_date": "2026-04-20 23:36:53",
+    "statistics": {
+        "total_orders": 99092,
+        "total_revenue": 15375875.44,
+        "avg_order_value": 159.81,
+        "avg_review_score": 4.09,
+        "on_time_delivery_rate": 91.87,
+        "late_delivery_rate_pct": 8.13,
+        "peak_monthly_revenue": 1153528.05,
+        "seller_prep_percentage": 23.67
+    },
+    "key_findings": {
+        "delivery_impact": "Late delivery rate spiked in Nov-2017 (Black Friday), leading to growth stagnation.",
+        "seller_bottleneck": "Seller preparation time accounts for a significant portion of delays during high-volume months.",
+        "freight_efficiency": "SP state enjoys the lowest freight costs (18-19 BRL), while outer regions face higher barriers.",
+        "customer_sentiment": "Negative reviews are primarily driven by low product quality and shipping delays.",
+        "logistics_strategy": "Transitioning to 3PL (Third-Party Logistics) outside SP is recommended to scale volume."
+    }
+}

@@ -118,6 +118,23 @@ Deploying the trained model into a production environment for real-world predict
 
 ---
 
+## 📊 Power BI
+
+Here are some insights and possible outcomes from this dataset visualized using Power BI.
+
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0001.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0002.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0003.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0004.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0005.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0006.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0007.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0008.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0009.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/7146208f7a446dbdb1dbc86280b2680ea5c12a4c/output/PowerBI%20Dashboard/Final_version%201_page-0010.jpg)
+![Power BI Dashboard](https://github.com/Parthadee/Olist-Brazilian-ECommerce/blob/80493ff7961a75964812bf820c62d9adf8bc1372/output/PowerBI%20Dashboard/Final_version%201_page-0011.jpg)
+
+---
 ## 🎯 Use Cases
 
 This dataset supports multiple real-world applications:
